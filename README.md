@@ -38,7 +38,7 @@ Biblio-Mate leverages advanced AI technology to provide users with in-depth anal
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/biblio-mate.git
+git clone https://github.com/bPavan16/biblio-mate.git
 cd biblio-mate
 ```
 
